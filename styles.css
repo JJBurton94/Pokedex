@@ -1,0 +1,48 @@
+body{
+    
+    color: yellow;
+    width: 500px;
+    margin: auto;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#div-upper{
+    text-align: center;
+    background-color: red;
+    border: 5px solid black;
+    border-bottom: 20px solid black;
+}
+#div-lower{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    border: 5px solid black;
+    height: 50%;
+}
+img{
+    width: 25%;
+}
+
+#btn{
+    color: yellow;
+    background-color: blue;
+    border-radius: 20%;
+    border-color: black;
+}
+#btn2{
+    color: blue;
+    background-color: yellow;
+    border-radius: 20%;
+    border-color: black;
+}
+a{
+    color: white;
+}
+input{
+    text-align: center;
+}
+h3{
+    color: black;
+}
